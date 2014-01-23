@@ -20,8 +20,10 @@ exif2html is image gallery generator
   ~~~ sh
   $ cd exif2html
   $ ./exif2html.pl
+  ~~~
 
 Have fun!
+
 
 ## LICENSE
 
